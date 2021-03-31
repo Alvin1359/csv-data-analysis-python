@@ -1,5 +1,5 @@
 # Python Challenge
-A repository containing Python Challenge homework
+A repository containing Python Challenge homework  
 Each analysis contains three items
 - A file called main.py. This is the main script to run for each analysis.
 - A "Resources" folder that contains the CSV files used
