@@ -1,18 +1,19 @@
 # Python Challenge
 A repository containing Python Challenge homework  
-Each analysis contains three items
+  
+Each analysis contains three items:
 - A file called main.py. This is the main script to run for each analysis.
 - A "Resources" folder that contains the CSV files used
 - An "Analysis" folder that contains a text file that has the results from the analysis.
 
-**Modules used**
+**Modules used:**
 - import os
 - import csv
 
-**IDE created with**
-- Visual Studio Code
+**IDE created with:**
+- Visual Studio Code (VSC)
 
-**The following code included in each main.py should ensure the python file runs**
+**The following code included in each _main.py_ should ensure the python file runs on VSC:**
 ```
 dirname = os.path.dirname(\__file__\)
 (csv file name)_csv = os.path.join(dirname, "Resources", "(csv file name.csv")
