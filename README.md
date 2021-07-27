@@ -1,5 +1,4 @@
-# Python Challenge
-A repository containing Python Challenge homework  
+# Python - CSV Data Analysis
   
 Each analysis contains three items:
 - A file called main.py. This is the main script to run for each analysis.
